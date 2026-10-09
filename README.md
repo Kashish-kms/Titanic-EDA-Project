@@ -11,7 +11,7 @@ The goal is to understand the dataset, explore relationships between variables, 
 - Clean the dataset by handling missing and inconsistent values  
 - Perform exploratory data analysis using visualizations  
 - Analyze relationships between features such as **gender, age, class**, and **survival**  
-- Draw insights from the data  
+- Draw insights from project 
 
 ---
 
